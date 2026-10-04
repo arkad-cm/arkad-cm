@@ -10,4 +10,6 @@ systems at scale: Go and Node services, Postgres, Kafka, Redis, Kubernetes.
 
 **Stack:** Go · TypeScript · Node · Python · Postgres · ClickHouse · Kafka · Redis · AWS · K8s
 
+**Personal projects** ([submux](https://github.com/arkadevbanerjee/submux) and more): [@arkadevbanerjee](https://github.com/arkadevbanerjee) · [portfolio](https://arkadevbanerjee.is-a.dev)
+
 📫 arkadev.banerjee@citymall.live
