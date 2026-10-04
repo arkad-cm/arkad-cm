@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @arkad-cml
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Microservices, Distributed Systems & Cloud Computing
-- 💞️ I’m looking to collaborate with my team at Citymall
-- 📫 Reach me at arkadev.banerjee@citymall.live
+### Hi, I'm Arkadev 👋
 
-<!---
-arkad-cml/arkad-cml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend engineer (SDE-2) at [CityMall](https://citymall.live), working on e-commerce
+systems at scale: Go and Node services, Postgres, Kafka, Redis, Kubernetes.
+
+**Lately:** tooling for AI coding agents.
+- [kirocc](https://github.com/d-kuro/kirocc): proxy that relays Anthropic API calls to Kiro (Go)
+- [ClaudeBar](https://github.com/tddworks/ClaudeBar): macOS menu bar app for AI usage quotas (Swift)
+- [monocode](https://github.com/hardbeat920/monocode): GUI for coding agents (TypeScript)
+
+**Stack:** Go · TypeScript · Node · Python · Postgres · ClickHouse · Kafka · Redis · AWS · K8s
+
+📫 arkadev.banerjee@citymall.live
